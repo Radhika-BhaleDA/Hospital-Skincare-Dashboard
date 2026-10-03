@@ -30,7 +30,6 @@ across Chhatrapati Sambhajinagar, Maharashtra.
 
 ## 🛠️ Tools Used
 - Microsoft Power BI
-- Microsoft Excel
 - Power Query (Data Cleaning)
 - DAX (Data Analysis Expressions)
 
