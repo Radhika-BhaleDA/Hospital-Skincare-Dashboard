@@ -1,4 +1,4 @@
-# Hospital & Skincare Clinic Dashboard — Chhatrapati Sambhajinagar
+# Healthcare & Wellness Performance Intelligence Dashboard 
 
 ## Project Overview
 
