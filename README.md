@@ -1,41 +1,46 @@
-# 🏥 Hospital & Skincare Clinic Dashboard — Chhatrapati Sambhajinagar
+# Hospital & Skincare Clinic Dashboard — Chhatrapati Sambhajinagar
 
-## 📌 Project Overview
-This is a real-world Power BI dashboard project completed 
-during my internship at E-katta Innovators LLP.
+## Project Overview
 
-The dashboard analyzes hospitals and skincare clinics 
-across Chhatrapati Sambhajinagar, Maharashtra.
+This is a real-world Power BI dashboard project completed during my internship at
+E-katta Innovators LLP.
 
----
-
-## 📊 Dashboard Pages
-- **Overview** — Combined view of all 202 facilities
-- **General Hospital** — 91 general hospitals analysis
-- **Skincare Clinic** — 111 skincare clinics analysis
+The dashboard analyzes hospitals and skincare clinics across Chhatrapati 
+Sambhajinagar, Maharashtra.
 
 ---
 
-## 🔢 Key Numbers
-| Metric | Value |
-|---|---|
-| Total Hospitals | 202 |
-| Skincare Clinics | 111 |
-| General Hospitals | 91 |
-| Total Areas Covered | 17 |
-| Contact Available | 156 (77%) |
-| Contact Missing | 46 (23%) |
+## Dashboard Pages
+
+- Overview — Combined view of all 202 facilities
+- General Hospital — 91 general hospitals analysis
+- Skincare Clinic — 111 skincare clinics analysis
 
 ---
 
-## 🛠️ Tools Used
+## Key Numbers
+
+| Metric               | Value        |
+|----------------------|--------------|
+| Total Hospitals      | 202          |
+| Skincare Clinics     | 111          |
+| General Hospitals    | 91           |
+| Total Areas Covered  | 17           |
+| Contact Available    | 156 (77%)    |
+| Contact Missing      | 46 (23%)     |
+
+---
+
+## Tools Used
+
 - Microsoft Power BI
 - Power Query (Data Cleaning)
 - DAX (Data Analysis Expressions)
 
 ---
 
-## 🧹 Data Cleaning Steps
+## Data Cleaning Steps
+
 - Removed leading 0 from phone numbers
 - Removed s0 prefix from invalid numbers
 - Trimmed extra spaces from phone numbers
@@ -45,7 +50,8 @@ across Chhatrapati Sambhajinagar, Maharashtra.
 
 ---
 
-## 📈 DAX Measures Created
+## DAX Measures Created
+
 - Total Hospitals
 - Total Skincare
 - Total General
@@ -55,24 +61,28 @@ across Chhatrapati Sambhajinagar, Maharashtra.
 - Total Distinct Areas
 
 ---
-## 💡 Key Insights
-- Other & Samarth Nagar have highest clinic density
+
+## Key Insights
+
+- Other and Samarth Nagar have highest clinic density
 - 46 hospitals have missing contact information
-- CIDCO & Osmanpura are major healthcare hubs
+- CIDCO and Osmanpura are major healthcare hubs
 - 77% contact coverage across all facilities
 - 17 unique areas mapped across the city
 
 ---
 
-## 🎓 About
-**Name:** Radhika Bhale  
-**Internship:** E-katta Innovators LLP  
-**Duration:** Jan 2026 – May 2026  
-**Role:** Data Analyst Intern  
-**College:** JNEC MGM, Chhatrapati Sambhajinagar
+## About
 
----
-## 🖼️ Dashboard Screenshots
+| Field       | Details                                    |
+|-------------|--------------------------------------------|
+| Name        | Radhika Bhale                              |
+| Internship  | E-katta Innovators LLP                     |
+| Duration    | Jan 2026 – May 2026                        |
+| Role        | Data Analyst Intern                        |
+| College     | JNEC MGM, Chhatrapati Sambhajinagar        |
+
+## Dashboard Screenshots
 
 ### Overview Page
 <img width="479" height="562" alt="Screenshot 2026-08-22 231640" src="https://github.com/user-attachments/assets/22aad254-0863-41e2-82dd-1de6fa5b6806" />
